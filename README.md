@@ -1,1 +1,2 @@
 # OpenGL-simulation-ship-and-changing-time-of-day
+This project is an interactive computer graphics simulation built using OpenGL that showcases a moving ship transitioning through different times of the day. The program enables users to interactively control the ship's movement, simulate environmental changes like day-to-night transitions, and even shoot rockets. The project demonstrates fundamental OpenGL concepts, including object rendering, lighting, and shading.
