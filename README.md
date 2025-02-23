@@ -47,4 +47,29 @@ This project is an interactive computer graphics simulation built using OpenGL t
 5️⃣ **Exit the Program** – Press `Esc` to quit ❌  
 
 ## 📸 Screenshots
+- **Starting page**
+![image alt](https://github.com/BhavanaMN29/OpenGL-simulation-ship-and-changing-time-of-day/blob/main/screenshot.jpg/IMG-20250223-WA0001.jpg?raw=true)
+
+- **Early morning**
+
+
+- **Afternoon**
+
+
+- **Evening**
+
+
+- **Night**
+  
+
+- **Midnight**
+
+
+## 🚀 Future Enhancements  
+
+🔹 🌊 **Realistic Water Simulation** – Advanced wave effects & reflections  
+🔹 ⛵ **Dynamic Ship Physics** – React to wind & environmental forces  
+🔹 🌧️ **Weather Effects** – Rain, fog, and storms for added realism  
+🔹 🛳️ **Detailed Ship Interiors** – Explore inside the ship  
+🔹 🎮 **Multiplayer Mode** – Allow multiple users to control different ships  
 
