@@ -1,5 +1,5 @@
-![Afternoon](https://github.com/user-attachments/assets/81ed1847-df85-4265-b364-6a00756b3d1e)# OpenGL-simulation-ship-and-changing-time-of-day
-This project is an interactive computer graphics simulation built using OpenGL that showcases a moving ship transitioning through different times of the day. The program enables users to interactively control the ship's movement, simulate environmental changes like day-to-night transitions, and even shoot rockets. The project demonstrates fundamental OpenGL concepts, including object rendering, lighting, and shading.
+# OpenGL-simulation-ship-and-changing-time-of-day
+- This project is an interactive computer graphics simulation built using OpenGL that showcases a moving ship transitioning through different times of the day. The program enables users to interactively control the ship's movement, simulate environmental changes like day-to-night transitions, and even shoot rockets. The project demonstrates fundamental OpenGL concepts, including object rendering, lighting, and shading.
 
 ## 🌟 Key Features
 - **Real-Time Ship Animation** – Smooth sailing simulation using OpenGL
@@ -48,11 +48,14 @@ This project is an interactive computer graphics simulation built using OpenGL t
 
 ## 📸 Screenshots
 - **Starting page**
-- ![image alt](![starting page](https://github.com/user-attachments/assets/90709847-e812-45d2-952a-a9f89ff10043))
+- ![starting page](https://github.com/user-attachments/assets/946b4c09-c0a7-438f-a44d-bf7205f2dc87)
+
 
 
 - **Early morning**
-- ![image alt](![Early morning](https://github.com/user-attachments/assets/e1f51850-2a1a-4d5f-a5ea-7513fc62bbf9))
+- ![Early morning](https://github.com/user-attachments/assets/e7f27e49-401c-43f7-a1c8-9ba343ed414c)
+
+
 
 
 - **Afternoon**
