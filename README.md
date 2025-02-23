@@ -48,12 +48,12 @@
 
 ## 📸 Screenshots
 - **Starting page**
-  
+  https://github.com/BhavanaMN29/OpenGL-simulation-ship-and-changing-time-of-day/blob/main/screenshot.jpg/starting%20page.jpg?raw=true 
 
 
 
 - **Early morning**
-
+  https://github.com/BhavanaMN29/OpenGL-simulation-ship-and-changing-time-of-day/blob/main/screenshot.jpg/Early%20morning.jpg?raw=true 
 
 
 
