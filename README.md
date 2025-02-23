@@ -1,4 +1,4 @@
-# OpenGL-simulation-ship-and-changing-time-of-day
+![Afternoon](https://github.com/user-attachments/assets/81ed1847-df85-4265-b364-6a00756b3d1e)# OpenGL-simulation-ship-and-changing-time-of-day
 This project is an interactive computer graphics simulation built using OpenGL that showcases a moving ship transitioning through different times of the day. The program enables users to interactively control the ship's movement, simulate environmental changes like day-to-night transitions, and even shoot rockets. The project demonstrates fundamental OpenGL concepts, including object rendering, lighting, and shading.
 
 ## 🌟 Key Features
@@ -48,27 +48,35 @@ This project is an interactive computer graphics simulation built using OpenGL t
 
 ## 📸 Screenshots
 - **Starting page**
-![image alt](![starting page](https://github.com/user-attachments/assets/90709847-e812-45d2-952a-a9f89ff10043))
+- ![image alt](![starting page](https://github.com/user-attachments/assets/90709847-e812-45d2-952a-a9f89ff10043))
 
 
 - **Early morning**
-![image alt](![Early morning](https://github.com/user-attachments/assets/e1f51850-2a1a-4d5f-a5ea-7513fc62bbf9))
+- ![image alt](![Early morning](https://github.com/user-attachments/assets/e1f51850-2a1a-4d5f-a5ea-7513fc62bbf9))
 
 
 - **Afternoon**
-![image alt](![Afternoon](https://github.com/user-attachments/assets/d638dcb2-04b1-4b96-80f6-a116d750c1fb))
+- ![Afternoon](https://github.com/user-attachments/assets/113549ce-2b10-43dc-a92e-44275336e959)
+
+
 
 
 - **Evening**
-![image alt](![Evening](https://github.com/user-attachments/assets/0c03c4fe-fa59-4120-9020-170335b7f573))
+- ![Evening](https://github.com/user-attachments/assets/36651192-9ef4-422e-b6a6-4d42acfbcb7c)
+
+
 
 
 - **Night**
-  ![image alt](![Night](https://github.com/user-attachments/assets/ed19ae96-fb27-4da9-9a6f-3998bdee82c1))
+- ![Night](https://github.com/user-attachments/assets/d4779781-1030-4c07-938d-1b091ee9ac35)
+
+ 
 
 
 - **Midnight**
-![image alt](![Midnight](https://github.com/user-attachments/assets/004f6896-36a7-4827-a6c3-6aa14ec47909))
+- ![Midnight](https://github.com/user-attachments/assets/a71167b8-6fc2-4522-87e0-0f4c67205ee1)
+
+
 
 
 ## 🚀 Future Enhancements  
