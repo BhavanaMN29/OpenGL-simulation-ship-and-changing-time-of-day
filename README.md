@@ -48,36 +48,36 @@
 
 ## 📸 Screenshots
 - **Starting page**
-- ![starting page](https://github.com/user-attachments/assets/946b4c09-c0a7-438f-a44d-bf7205f2dc87)
+  
 
 
 
 - **Early morning**
-- ![Early morning](https://github.com/user-attachments/assets/e7f27e49-401c-43f7-a1c8-9ba343ed414c)
+
 
 
 
 
 - **Afternoon**
-- ![Afternoon](https://github.com/user-attachments/assets/113549ce-2b10-43dc-a92e-44275336e959)
+  ![Afternoon](https://github.com/user-attachments/assets/113549ce-2b10-43dc-a92e-44275336e959)
 
 
 
 
 - **Evening**
-- ![Evening](https://github.com/user-attachments/assets/36651192-9ef4-422e-b6a6-4d42acfbcb7c)
+  ![Evening](https://github.com/user-attachments/assets/36651192-9ef4-422e-b6a6-4d42acfbcb7c)
 
 
 
 
 - **Night**
-- ![Night](https://github.com/user-attachments/assets/d4779781-1030-4c07-938d-1b091ee9ac35)
+  ![Night](https://github.com/user-attachments/assets/d4779781-1030-4c07-938d-1b091ee9ac35)
 
  
 
 
 - **Midnight**
-- ![Midnight](https://github.com/user-attachments/assets/a71167b8-6fc2-4522-87e0-0f4c67205ee1)
+  ![Midnight](https://github.com/user-attachments/assets/a71167b8-6fc2-4522-87e0-0f4c67205ee1)
 
 
 
