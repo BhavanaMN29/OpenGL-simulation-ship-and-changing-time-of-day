@@ -48,21 +48,27 @@ This project is an interactive computer graphics simulation built using OpenGL t
 
 ## 📸 Screenshots
 - **Starting page**
-![image alt](https://github.com/BhavanaMN29/OpenGL-simulation-ship-and-changing-time-of-day/blob/main/screenshot.jpg/IMG-20250223-WA0001.jpg?raw=true)
+![image alt](![starting page](https://github.com/user-attachments/assets/90709847-e812-45d2-952a-a9f89ff10043))
+
 
 - **Early morning**
+![image alt](![Early morning](https://github.com/user-attachments/assets/e1f51850-2a1a-4d5f-a5ea-7513fc62bbf9))
 
 
 - **Afternoon**
+![image alt](![Afternoon](https://github.com/user-attachments/assets/d638dcb2-04b1-4b96-80f6-a116d750c1fb))
 
 
 - **Evening**
+![image alt](![Evening](https://github.com/user-attachments/assets/0c03c4fe-fa59-4120-9020-170335b7f573))
 
 
 - **Night**
-  
+  ![image alt](![Night](https://github.com/user-attachments/assets/ed19ae96-fb27-4da9-9a6f-3998bdee82c1))
+
 
 - **Midnight**
+![image alt](![Midnight](https://github.com/user-attachments/assets/004f6896-36a7-4827-a6c3-6aa14ec47909))
 
 
 ## 🚀 Future Enhancements  
